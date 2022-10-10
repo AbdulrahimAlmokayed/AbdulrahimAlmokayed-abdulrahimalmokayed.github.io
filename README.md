@@ -1,9 +1,9 @@
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="UTF-8" />
-  <title>CSS</title>
+  <title>Abdulrahim's CV</title>
   <link rel="stylesheet" href="Pro-CV.css" />
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
@@ -17,9 +17,12 @@
     <div class="des">
       <h1>Abdulrahim Almokayed</h1>
       <h2>A juniour backend developer.</h2>
-      <h3>I'm a med student Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae sequi repellat pariatur
-        voluptate dignissimos ea deserunt nostrum sunt placeat doloribus, impedit magni. Earum architecto pariatur eaque
-        iusto praesentium asperiores nemo?</h3>
+      <h3>I'm a student who have a passion to utilize my technical and management
+        skills for achieving the target and
+        developing the best performance. I would like to implement my
+        innovative ideas, skills and creativity for
+        accomplishing the projects.
+        </h3>
     </div>
     <div id="email">
       <span class="material-symbols-outlined icon">
@@ -94,8 +97,8 @@
           <li>-the 4th in the central test </li>
         </ul>
       </div>
-      <div class="intrests">
-        <h1>Intrests</h1>
+      <div class="intersts">
+        <h1>Interests</h1>
 
         <Table>
           <tr>
@@ -103,7 +106,7 @@
             <td>- Music </td>
           </tr>
           <tr>
-            <td>- Psycology</td>
+            <td>- Phsycology</td>
             <td>- Pysiology </td>
           </tr>
           <tr>
