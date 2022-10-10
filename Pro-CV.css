@@ -59,10 +59,10 @@ main h2 {
   color: orange;
 }
 
-h1::before {
+header h1::before {
   content: "";
   position: absolute;
-  top: 12S%;
+  top: 12%;
   left: 806.4px;
   width: 201.6px;
   height: 0;
