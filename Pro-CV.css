@@ -18,11 +18,13 @@ header {
   height: auto;
   background-color: rgb(255, 255, 255);
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   grid-template-rows: auto auto;
   grid-template-areas:
     "photo des des des"
     "email email phone phone";
+      align-items: start;
+
 }
 
 header h3 {
@@ -40,8 +42,6 @@ header h3 {
   border-color: orange;
   border-width: 10px;
   width: 150px;
-  float: left;
-
 }
 
 header h1 {
@@ -62,7 +62,7 @@ main h2 {
 h1::before {
   content: "";
   position: absolute;
-  top: 6%;
+  top: 12S%;
   left: 806.4px;
   width: 201.6px;
   height: 0;
