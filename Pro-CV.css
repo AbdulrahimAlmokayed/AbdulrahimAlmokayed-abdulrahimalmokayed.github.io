@@ -42,6 +42,7 @@ header h3 {
   border-color: orange;
   border-width: 10px;
   width: 150px;
+  float: left;
 }
 
 header h1 {
